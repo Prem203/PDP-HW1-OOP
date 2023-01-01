@@ -62,7 +62,9 @@ const rl = readline.createInterface({
       }
         break;
 
-      default:
+      default:{
+        console.log("Not a valid response");
+      }
         break;
     }
     rl.close();
