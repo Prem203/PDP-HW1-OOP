@@ -9,4 +9,5 @@ Use the following steps to run the code:
 6. To run the code: `node main.js`
 
 => I have used splice to delete the prompt from the array of object.
+
 =>My special feature is that after deleting the prompt, I am providing user to restore the previous array of prompt. For this I am storing the older prompt in another array called "cache".
