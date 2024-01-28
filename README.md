@@ -10,4 +10,4 @@ Use the following steps to run the code:
 
 => I have used splice to delete the prompt from the array of object.
 
-=>My special feature is that after deleting the prompt, I am providing user to restore the previous array of prompt. For this I am storing the older prompt in another array called "cache".
+=>My special feature is that after deleting the prompt, I am providing user to restore the previous array of prompt. If user presses 'Y' the previous list will be restored while if the user presses 'N' the updated list of prompts and responses will be displayed.
